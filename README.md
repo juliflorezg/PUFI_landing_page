@@ -11,7 +11,7 @@ El objetivo de esta prueba era obtener un resultado lo mas cercano posible al di
 
 ## Visitala aquí
 
-- (https://github.com/juliflorezg/)
+- (https://pufi-landing-page.web.app/)
 
 ## Vista previa
 
